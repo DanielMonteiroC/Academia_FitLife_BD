@@ -1,4 +1,4 @@
-# 🏋️ Academia FitLife — Banco de Dados Relacional
+# 🏋️ Academia FitLife - Banco de Dados Relacional
 
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-DDL%20%7C%20DML%20%7C%20CTE%20%7C%20Window%20Functions-orange)
@@ -212,4 +212,4 @@ Academia_FitLife_BD/
 ## 👤 Autor
 
 **Daniel Monteiro de Carvalho**
-Engenharia de Software · Universidade de Vassouras – Campus Maricá
+Engenharia de Software · Universidade de Vassouras - Campus Maricá
